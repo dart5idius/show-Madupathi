@@ -4,8 +4,12 @@ I love pizza as it tastes good and can be customized in many ways, but not just 
 
 ---
 # Where to get it
-1. **online order** - The easiest and most convenient option.
-2. **large chain local store** - Slightly less convenient due to driving.
-3. **niche places** - May require more effort to locate and visit.
+1. online order - The easiest and most convenient option.
+2. large chain local store - Slightly less convenient due to driving.
+3. niche places - May require more effort to locate and visit.
 
- 
+- Garlic bread
+- tots
+- wings
+
+
