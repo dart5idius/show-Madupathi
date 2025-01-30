@@ -15,5 +15,14 @@ I love pizza as it tastes good and can be customized in many ways, but not just 
 
 Here's my [ Favorite Movie](MyMovie.md) 
 
+---
+## Quotes that I like
+
+> “And how have I lived? Frankly and openly, though crudely. I have not been afraid of life. I have not shrunk from it. I have taken it for what it was at its own valuation. And I have not been ashamed of it. Just as it was, it was mine.”
+― *Jack London*
+
+>“Truly great men must, I think, experience great sorrow on the earth.”
+        ― *Fyodor Dostoevsky, Crime and Punishment*
+
 
  
