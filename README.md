@@ -24,5 +24,14 @@ Here's my [ Favorite Movie](MyMovie.md)
 >“Truly great men must, I think, experience great sorrow on the earth.”
         ― *Fyodor Dostoevsky, Crime and Punishment*
 
+---
+ ## SQL snippet
 
+ This is an OR command in SQL which displays a record if the condition separated by OR is true. 
  
+ ```SELECT column1, column2, ...
+FROM table_name
+WHERE condition1 OR condition2 OR condition3 ...;
+```
+
+Source : [code pieces ](https://code.pieces.app/collections/sql)
